@@ -1,0 +1,84 @@
+{
+    "rahul": {
+        "password": "1234",
+        "balance": 150000,
+        "transactions": [
+            {
+                "type": "Transfer Moeny to raj",
+                "amount": 1200.0,
+                "balance": 148800.0,
+                "timestamp": "2024-10-16 16:13:24"
+            }
+        ]
+    },
+    "raj": {
+        "password": "45",
+        "balance": 3200.0,
+        "transactions": [
+            {
+                "type": "Recived money from rahul",
+                "amount": 1200.0,
+                "balance": 148800.0,
+                "timestamp": "2024-10-16 16:13:24"
+            }
+        ]
+    },
+    "rahat": {
+        "password": "14",
+        "balance": 10000,
+        "transactions": []
+    },
+    "aaru": {
+        "password": "99",
+        "balance": 27400.0,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 8000.0,
+                "balance": 8000.0,
+                "timestamp": "2024-10-16 15:52:08"
+            },
+            {
+                "type": "Deposit",
+                "amount": 4500.0,
+                "balance": 3500.0,
+                "timestamp": "2024-10-16 15:52:12"
+            },
+            {
+                "type": "Deposit",
+                "amount": 23000.0,
+                "balance": 26500.0,
+                "timestamp": "2024-10-16 15:52:19"
+            },
+            {
+                "type": "Deposit",
+                "amount": 900.0,
+                "balance": 27400.0,
+                "timestamp": "2024-10-16 15:53:22"
+            }
+        ]
+    },
+    "rohit": {
+        "password": "5657",
+        "balance": 0,
+        "transactions": [],
+        "security_questions": [
+            [
+                "What's your name",
+                "Rohit"
+            ],
+            [
+                "What's your age",
+                "21"
+            ],
+            [
+                "Where do you study?",
+                "Gujrat"
+            ],
+            [
+                "What's you are passinate about?",
+                "AI"
+            ]
+        ]
+    }
+}
